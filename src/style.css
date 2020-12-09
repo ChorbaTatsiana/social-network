@@ -1,0 +1,33 @@
+body {
+  box-sizing: border-box;
+}
+.app-wrapper {
+  display: grid;
+  grid-template-areas: 
+  'h h'
+  'n c';
+  grid-template-rows: 60px 1fr;
+  grid-template-columns: 2fr 10fr;
+  /* grid-gap: 10px;*/
+
+  width: 1200px;
+  margin: 0 auto;
+}
+.nav {
+grid-area: n;
+background-color: greenyellow;
+}
+
+.content {
+  grid-area: c;
+  background-color: blue;
+}
+.bg-img {
+  width: 100%;
+}
+
+.app-wrapper-content {
+  grid-area: c;
+  background-color: grey;
+background-image: url('https://image.freepik.com/free-photo/image-human-brain_99433-298.jpg');
+}

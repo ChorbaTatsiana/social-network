@@ -1,0 +1,10 @@
+.descriptionBlock {
+    padding: 20px;
+}
+.color {
+    background-color: white;
+}
+
+* {
+    color: red;
+}

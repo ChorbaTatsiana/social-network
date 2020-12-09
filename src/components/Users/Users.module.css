@@ -1,0 +1,47 @@
+.paginator {
+    margin: 10px;
+}
+
+.paginatorNumber {
+    padding: 2px;
+    border: solid 1px grey;
+}
+
+.paginatorNumber.selectedPage {
+    font-weight: bold;
+    border-color: black;
+}
+
+.photoUser {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+.infoUser {
+    display: flex;
+    justify-content: space-around;
+    border: solid grey 1px;
+    border-radius: 5px;
+    margin: 10px auto;
+    width: 100%;
+    background-color: rgb(206, 200, 200);
+}
+
+.location {
+    padding-left: 20px;
+}
+.buttonFollowed {
+    background-color: green;
+}
+.wrInfo {
+    display: flex;
+}
+.selectedPage {
+    font-weight: bold;
+    color: white;
+}
+
+.color {
+    color: white;
+}
