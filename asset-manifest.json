@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/ChorbaTatsiana/social-network/static/css/main.bd5e7b88.chunk.css",
+    "main.js": "/ChorbaTatsiana/social-network/static/js/main.95e6050f.chunk.js",
+    "main.js.map": "/ChorbaTatsiana/social-network/static/js/main.95e6050f.chunk.js.map",
+    "runtime-main.js": "/ChorbaTatsiana/social-network/static/js/runtime-main.c5f0e184.js",
+    "runtime-main.js.map": "/ChorbaTatsiana/social-network/static/js/runtime-main.c5f0e184.js.map",
+    "static/js/2.b9e0c1a7.chunk.js": "/ChorbaTatsiana/social-network/static/js/2.b9e0c1a7.chunk.js",
+    "static/js/2.b9e0c1a7.chunk.js.map": "/ChorbaTatsiana/social-network/static/js/2.b9e0c1a7.chunk.js.map",
+    "static/css/3.5b4bf2c6.chunk.css": "/ChorbaTatsiana/social-network/static/css/3.5b4bf2c6.chunk.css",
+    "static/js/3.c6ca56e8.chunk.js": "/ChorbaTatsiana/social-network/static/js/3.c6ca56e8.chunk.js",
+    "static/js/3.c6ca56e8.chunk.js.map": "/ChorbaTatsiana/social-network/static/js/3.c6ca56e8.chunk.js.map",
+    "static/css/4.5eceddf9.chunk.css": "/ChorbaTatsiana/social-network/static/css/4.5eceddf9.chunk.css",
+    "static/js/4.006cecfe.chunk.js": "/ChorbaTatsiana/social-network/static/js/4.006cecfe.chunk.js",
+    "static/js/4.006cecfe.chunk.js.map": "/ChorbaTatsiana/social-network/static/js/4.006cecfe.chunk.js.map",
+    "index.html": "/ChorbaTatsiana/social-network/index.html",
+    "static/css/3.5b4bf2c6.chunk.css.map": "/ChorbaTatsiana/social-network/static/css/3.5b4bf2c6.chunk.css.map",
+    "static/css/4.5eceddf9.chunk.css.map": "/ChorbaTatsiana/social-network/static/css/4.5eceddf9.chunk.css.map",
+    "static/css/main.bd5e7b88.chunk.css.map": "/ChorbaTatsiana/social-network/static/css/main.bd5e7b88.chunk.css.map",
+    "static/js/2.b9e0c1a7.chunk.js.LICENSE.txt": "/ChorbaTatsiana/social-network/static/js/2.b9e0c1a7.chunk.js.LICENSE.txt",
+    "static/media/preloader.e2b1bc7f.svg": "/ChorbaTatsiana/social-network/static/media/preloader.e2b1bc7f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5f0e184.js",
+    "static/js/2.b9e0c1a7.chunk.js",
+    "static/css/main.bd5e7b88.chunk.css",
+    "static/js/main.95e6050f.chunk.js"
+  ]
+}
